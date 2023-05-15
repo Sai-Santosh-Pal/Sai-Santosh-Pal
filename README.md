@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Sai-Santosh-Pal
-- 🚀 Started programming at age of 8
-- 📅 Now I am 12
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning the concepts of React Native
-- 💞️ I’m looking to collaborate on python projects 
+<div align="center">
+<h2 align="center">👋🏻 Hi There, I am Sai Santosh Pal, A Python And React Developer.</h2>
+
+![](https://komarev.com/ghpvc/?username=sai-santosh-pal)
+</div>
