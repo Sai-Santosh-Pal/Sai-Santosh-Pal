@@ -18,8 +18,6 @@
   <p>      </p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sai-santosh-pal&show_icons=true&theme=radical&line_height=27" />
   <hr>
-  <a href="instagram.com/ssntshpl">Instagram</a>
-
-  <a href="github.com/Sai-Santosh-Pal">Github</a>
+  <h2>Mail Me At: saisantoshpal2010@gmail.com</h2>
   
 </div>
