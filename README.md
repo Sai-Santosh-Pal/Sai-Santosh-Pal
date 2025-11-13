@@ -5,7 +5,7 @@
   <hr>
   <h1> About Me </h1>
 🚀 Started programming at age of 8 <br>
-📅 Now I am 14 <br>
+📅 Now I am 15 <br>
 👀 I’m interested in Python and React Native <br>
 🌱 I’m currently learning the concepts of Angular <br>
 💞️ I’m looking to collaborate on react/python/react native projects  <br>
